@@ -9,5 +9,9 @@ From classification to regression and clustering, these projects demonstrate the
 The objective of diabetes classification is to develop a model that accurately predicts whether an individual has diabetes or not based on a set of input features.
 
 2. Sales prediction on the basis of radio,addvertisment and newspaper
-3. Hr-employee retension
+
+3. Hr-employee retension :
+### Objectives:
+The objective of HR employee retention helps  to organizations proactively identify and address attrition risk, improve employee satisfaction and engagement, and ultimately retain top talent, leading to a more stable and productive workforce.
+
 4. Water Quality prediction
